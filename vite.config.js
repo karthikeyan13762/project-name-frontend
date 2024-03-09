@@ -11,8 +11,8 @@ export default defineConfig({
   // },
   server: {
     proxy: {
-      "/api": "https://project-name-backend-dcqp.onrender.com",
-      "/upload": "https://project-name-backend-dcqp.onrender.com",
+      "/api": "https://ecommerce-kcart8.onrender.com",
+      "/upload": "https://ecommerce-kcart8.onrender.com",
     },
   },
 });
